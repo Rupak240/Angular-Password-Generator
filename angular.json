@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rupakdey"
+    }
+  },
+  "defaultProject": "rupakdey",
+  "cli": {
+    "analytics": false
+  }
 }
